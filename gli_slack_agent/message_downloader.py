@@ -1,8 +1,8 @@
 # =============================================================================
 # CONFIG — edit these values only (junior-friendly)
 # =============================================================================
-
-SLACK_BOT_TOKEN = ""
+import os
+SLACK_BOT_TOKEN = os.getenv("SLACK_BOT_API_KEY")
 #gli-testing, strike-team
 CHANNEL_IDS = ["C0AM3SP0BGE","C08D9RKJAMB"]
 SQLITE_DB_FILENAME = "slack_messages.db"

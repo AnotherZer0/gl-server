@@ -1,8 +1,8 @@
 # =============================================================================
 # CONFIG — OpenAI (edit API key and model)
 # =============================================================================
-
-OPENAI_API_KEY = ""
+import os
+OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 # Docs: https://platform.openai.com/docs/models — use gpt-5.4-nano or gpt-5-nano, etc.
 OPENAI_MODEL = "gpt-5.4-nano"
 
