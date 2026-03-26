@@ -1,0 +1,20 @@
+2026-03-25 14:25:48,898 INFO Script start: fetching Slack messages into C:\Users\cdtin\venv\cursor_project\gli_slack_agent\slack_messages.db
+2026-03-25 14:25:48,901 INFO Processing channel C0AM3SP0BGE
+2026-03-25 14:25:49,958 INFO Channel C0AM3SP0BGE: display name 'gli-testing'
+2026-03-25 14:25:49,958 INFO Channel C0AM3SP0BGE: incremental fetch from oldest=1774367862.586819 (state latest=1774367862.586819)
+2026-03-25 14:25:50,071 INFO Channel C0AM3SP0BGE: history page 1, 1 messages
+2026-03-25 14:25:50,086 INFO Channel C0AM3SP0BGE: message upserts insert=1 update=0
+2026-03-25 14:25:50,091 INFO Channel C0AM3SP0BGE: channel_state.latest_ts set to 1774370561.345769
+2026-03-25 14:25:50,091 INFO Finished channel C0AM3SP0BGE successfully
+2026-03-25 14:25:50,091 INFO Processing channel C08D9RKJAMB
+2026-03-25 14:25:50,191 INFO Channel C08D9RKJAMB: display name 'strike-team'
+2026-03-25 14:25:50,191 INFO Channel C08D9RKJAMB: incremental fetch from oldest=1774313798.837839 (state latest=1774313798.837839)
+2026-03-25 14:25:50,302 INFO Channel C08D9RKJAMB: history page 1, 5 messages
+2026-03-25 14:25:50,416 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1774449203.780729, 11 messages
+2026-03-25 14:25:50,417 INFO Channel C08D9RKJAMB: thread 1774449203.780729 replies insert=10 update=1
+2026-03-25 14:25:50,530 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1774446068.676919, 2 messages
+2026-03-25 14:25:50,530 INFO Channel C08D9RKJAMB: thread 1774446068.676919 replies insert=1 update=1
+2026-03-25 14:25:50,538 INFO Channel C08D9RKJAMB: message upserts insert=16 update=2
+2026-03-25 14:25:50,546 INFO Channel C08D9RKJAMB: channel_state.latest_ts set to 1774466746.252649
+2026-03-25 14:25:50,546 INFO Finished channel C08D9RKJAMB successfully
+2026-03-25 14:25:50,546 INFO Done. Channels OK=2 failed=0 (see log file under C:\Users\cdtin\venv\cursor_project\gli_slack_agent\logs)

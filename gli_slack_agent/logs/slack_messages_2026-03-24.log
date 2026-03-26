@@ -1,0 +1,24 @@
+2026-03-24 10:57:48,782 INFO Script start: fetching Slack messages into C:\Users\cdtin\venv\cursor_project\gli_slack_agent\slack_messages.db
+2026-03-24 10:57:48,784 INFO Processing channel C0AM3SP0BGE
+2026-03-24 10:57:49,105 INFO Channel C0AM3SP0BGE: display name 'gli-testing'
+2026-03-24 10:57:49,105 INFO Channel C0AM3SP0BGE: incremental fetch from oldest=1774281469.105791 (state latest=1774303719.190569)
+2026-03-24 10:57:49,231 INFO Channel C0AM3SP0BGE: history page 1, 33 messages
+2026-03-24 10:57:49,371 INFO Channel C0AM3SP0BGE: replies page 1 for thread_ts=1774288510.940869, 3 messages
+2026-03-24 10:57:49,371 INFO Channel C0AM3SP0BGE: thread 1774288510.940869 replies insert=0 update=3
+2026-03-24 10:57:49,376 INFO Channel C0AM3SP0BGE: message upserts insert=5 update=31
+2026-03-24 10:57:49,383 INFO Channel C0AM3SP0BGE: channel_state.latest_ts set to 1774367862.586819
+2026-03-24 10:57:49,383 INFO Finished channel C0AM3SP0BGE successfully
+2026-03-24 10:57:49,383 INFO Processing channel C08D9RKJAMB
+2026-03-24 10:57:49,475 INFO Channel C08D9RKJAMB: display name 'strike-team'
+2026-03-24 10:57:49,475 INFO Channel C08D9RKJAMB: incremental fetch from oldest=1774281469.47586 (state latest=1774304506.933239)
+2026-03-24 10:57:49,613 INFO Channel C08D9RKJAMB: history page 1, 5 messages
+2026-03-24 10:57:49,750 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1774301245.344899, 10 messages
+2026-03-24 10:57:49,750 INFO Channel C08D9RKJAMB: thread 1774301245.344899 replies insert=0 update=10
+2026-03-24 10:57:49,870 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1774286938.044829, 4 messages
+2026-03-24 10:57:49,871 INFO Channel C08D9RKJAMB: thread 1774286938.044829 replies insert=1 update=3
+2026-03-24 10:57:49,983 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1774286630.039509, 7 messages
+2026-03-24 10:57:49,984 INFO Channel C08D9RKJAMB: thread 1774286630.039509 replies insert=0 update=7
+2026-03-24 10:57:49,987 INFO Channel C08D9RKJAMB: message upserts insert=1 update=25
+2026-03-24 10:57:49,993 INFO Channel C08D9RKJAMB: channel_state.latest_ts set to 1774313798.837839
+2026-03-24 10:57:49,994 INFO Finished channel C08D9RKJAMB successfully
+2026-03-24 10:57:49,994 INFO Done. Channels OK=2 failed=0 (see log file under C:\Users\cdtin\venv\cursor_project\gli_slack_agent\logs)

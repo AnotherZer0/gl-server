@@ -1,0 +1,842 @@
+2026-03-23 17:46:58,793 INFO Script start: fetching Slack messages into C:\Users\cdtin\venv\cursor_project\gli_slack_agent\slack_messages.db
+2026-03-23 17:46:58,796 INFO Processing channel C0AM3SP0BGE
+2026-03-23 17:46:59,013 INFO Channel C0AM3SP0BGE: display name 'gli-testing'
+2026-03-23 17:46:59,013 INFO Channel C0AM3SP0BGE: incremental fetch from oldest=1774219619.0137 (state latest=1774303719.190569)
+2026-03-23 17:46:59,121 INFO Channel C0AM3SP0BGE: history page 1, 28 messages
+2026-03-23 17:46:59,224 INFO Channel C0AM3SP0BGE: replies page 1 for thread_ts=1774288510.940869, 3 messages
+2026-03-23 17:46:59,224 INFO Channel C0AM3SP0BGE: thread 1774288510.940869 replies insert=0 update=3
+2026-03-23 17:46:59,224 INFO Channel C0AM3SP0BGE: message upserts insert=0 update=31
+2026-03-23 17:46:59,225 INFO Channel C0AM3SP0BGE: channel_state.latest_ts set to 1774303719.190569
+2026-03-23 17:46:59,225 INFO Finished channel C0AM3SP0BGE successfully
+2026-03-23 17:46:59,225 INFO Processing channel C08D9RKJAMB
+2026-03-23 17:46:59,312 INFO Channel C08D9RKJAMB: display name 'strike-team'
+2026-03-23 17:46:59,312 INFO Channel C08D9RKJAMB: no prior state; fetching full history
+2026-03-23 17:46:59,842 INFO Channel C08D9RKJAMB: history page 1, 200 messages
+2026-03-23 17:47:00,068 INFO Channel C08D9RKJAMB: history page 2, 200 messages
+2026-03-23 17:47:00,446 INFO Channel C08D9RKJAMB: history page 3, 200 messages
+2026-03-23 17:47:00,741 INFO Channel C08D9RKJAMB: history page 4, 200 messages
+2026-03-23 17:47:01,055 INFO Channel C08D9RKJAMB: history page 5, 200 messages
+2026-03-23 17:47:01,390 INFO Channel C08D9RKJAMB: history page 6, 200 messages
+2026-03-23 17:47:01,779 INFO Channel C08D9RKJAMB: history page 7, 200 messages
+2026-03-23 17:47:02,145 INFO Channel C08D9RKJAMB: history page 8, 161 messages
+2026-03-23 17:47:02,277 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1774301245.344899, 10 messages
+2026-03-23 17:47:02,278 INFO Channel C08D9RKJAMB: thread 1774301245.344899 replies insert=9 update=1
+2026-03-23 17:47:02,388 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1774286938.044829, 3 messages
+2026-03-23 17:47:02,389 INFO Channel C08D9RKJAMB: thread 1774286938.044829 replies insert=1 update=2
+2026-03-23 17:47:02,491 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1774286630.039509, 7 messages
+2026-03-23 17:47:02,491 INFO Channel C08D9RKJAMB: thread 1774286630.039509 replies insert=6 update=1
+2026-03-23 17:47:02,593 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1774271340.602759, 2 messages
+2026-03-23 17:47:02,593 INFO Channel C08D9RKJAMB: thread 1774271340.602759 replies insert=1 update=1
+2026-03-23 17:47:02,715 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1774028504.148999, 3 messages
+2026-03-23 17:47:02,715 INFO Channel C08D9RKJAMB: thread 1774028504.148999 replies insert=2 update=1
+2026-03-23 17:47:02,826 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1774025018.912079, 3 messages
+2026-03-23 17:47:02,827 INFO Channel C08D9RKJAMB: thread 1774025018.912079 replies insert=2 update=1
+2026-03-23 17:47:02,944 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1773878876.984989, 2 messages
+2026-03-23 17:47:02,945 INFO Channel C08D9RKJAMB: thread 1773878876.984989 replies insert=1 update=1
+2026-03-23 17:47:03,052 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1773838958.829139, 2 messages
+2026-03-23 17:47:03,053 INFO Channel C08D9RKJAMB: thread 1773838958.829139 replies insert=1 update=1
+2026-03-23 17:47:03,174 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1773833160.517169, 3 messages
+2026-03-23 17:47:03,174 INFO Channel C08D9RKJAMB: thread 1773833160.517169 replies insert=2 update=1
+2026-03-23 17:47:03,321 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1773833056.349789, 3 messages
+2026-03-23 17:47:03,321 INFO Channel C08D9RKJAMB: thread 1773833056.349789 replies insert=2 update=1
+2026-03-23 17:47:03,439 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1773787195.487619, 3 messages
+2026-03-23 17:47:03,439 INFO Channel C08D9RKJAMB: thread 1773787195.487619 replies insert=2 update=1
+2026-03-23 17:47:03,565 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1773778861.792319, 2 messages
+2026-03-23 17:47:03,565 INFO Channel C08D9RKJAMB: thread 1773778861.792319 replies insert=1 update=1
+2026-03-23 17:47:03,712 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1773777564.157699, 6 messages
+2026-03-23 17:47:03,712 INFO Channel C08D9RKJAMB: thread 1773777564.157699 replies insert=5 update=1
+2026-03-23 17:47:03,817 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1773775106.178749, 2 messages
+2026-03-23 17:47:03,817 INFO Channel C08D9RKJAMB: thread 1773775106.178749 replies insert=1 update=1
+2026-03-23 17:47:03,952 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1773773174.919329, 4 messages
+2026-03-23 17:47:03,952 INFO Channel C08D9RKJAMB: thread 1773773174.919329 replies insert=3 update=1
+2026-03-23 17:47:04,078 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1773768266.131359, 6 messages
+2026-03-23 17:47:04,079 INFO Channel C08D9RKJAMB: thread 1773768266.131359 replies insert=5 update=1
+2026-03-23 17:47:04,195 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1773708010.523179, 2 messages
+2026-03-23 17:47:04,195 INFO Channel C08D9RKJAMB: thread 1773708010.523179 replies insert=1 update=1
+2026-03-23 17:47:04,294 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1773414083.089019, 4 messages
+2026-03-23 17:47:04,295 INFO Channel C08D9RKJAMB: thread 1773414083.089019 replies insert=3 update=1
+2026-03-23 17:47:04,403 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1773360271.606849, 2 messages
+2026-03-23 17:47:04,403 INFO Channel C08D9RKJAMB: thread 1773360271.606849 replies insert=1 update=1
+2026-03-23 17:47:04,512 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1773360157.930279, 6 messages
+2026-03-23 17:47:04,513 INFO Channel C08D9RKJAMB: thread 1773360157.930279 replies insert=5 update=1
+2026-03-23 17:47:04,627 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1773321524.504169, 3 messages
+2026-03-23 17:47:04,627 INFO Channel C08D9RKJAMB: thread 1773321524.504169 replies insert=2 update=1
+2026-03-23 17:47:04,752 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1773321332.939129, 10 messages
+2026-03-23 17:47:04,752 INFO Channel C08D9RKJAMB: thread 1773321332.939129 replies insert=9 update=1
+2026-03-23 17:47:04,870 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1772808193.397909, 5 messages
+2026-03-23 17:47:04,870 INFO Channel C08D9RKJAMB: thread 1772808193.397909 replies insert=4 update=1
+2026-03-23 17:47:04,983 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1772803042.353069, 2 messages
+2026-03-23 17:47:04,983 INFO Channel C08D9RKJAMB: thread 1772803042.353069 replies insert=1 update=1
+2026-03-23 17:47:05,109 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1772736094.322949, 3 messages
+2026-03-23 17:47:05,109 INFO Channel C08D9RKJAMB: thread 1772736094.322949 replies insert=2 update=1
+2026-03-23 17:47:05,213 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1772729036.294459, 3 messages
+2026-03-23 17:47:05,213 INFO Channel C08D9RKJAMB: thread 1772729036.294459 replies insert=2 update=1
+2026-03-23 17:47:05,332 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1772728778.666649, 2 messages
+2026-03-23 17:47:05,332 INFO Channel C08D9RKJAMB: thread 1772728778.666649 replies insert=1 update=1
+2026-03-23 17:47:05,429 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1772723119.619649, 2 messages
+2026-03-23 17:47:05,429 INFO Channel C08D9RKJAMB: thread 1772723119.619649 replies insert=1 update=1
+2026-03-23 17:47:05,535 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1772630887.513869, 4 messages
+2026-03-23 17:47:05,536 INFO Channel C08D9RKJAMB: thread 1772630887.513869 replies insert=3 update=1
+2026-03-23 17:47:05,641 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1772464334.660949, 8 messages
+2026-03-23 17:47:05,642 INFO Channel C08D9RKJAMB: thread 1772464334.660949 replies insert=7 update=1
+2026-03-23 17:47:05,749 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1772460480.726439, 2 messages
+2026-03-23 17:47:05,749 INFO Channel C08D9RKJAMB: thread 1772460480.726439 replies insert=1 update=1
+2026-03-23 17:47:05,881 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1772111355.336789, 2 messages
+2026-03-23 17:47:05,890 INFO Channel C08D9RKJAMB: thread 1772111355.336789 replies insert=1 update=1
+2026-03-23 17:47:06,007 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1772078190.377289, 3 messages
+2026-03-23 17:47:06,007 INFO Channel C08D9RKJAMB: thread 1772078190.377289 replies insert=2 update=1
+2026-03-23 17:47:06,127 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1771540645.414269, 3 messages
+2026-03-23 17:47:06,127 INFO Channel C08D9RKJAMB: thread 1771540645.414269 replies insert=2 update=1
+2026-03-23 17:47:06,227 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1771523666.854379, 5 messages
+2026-03-23 17:47:06,228 INFO Channel C08D9RKJAMB: thread 1771523666.854379 replies insert=4 update=1
+2026-03-23 17:47:06,374 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1771463513.865919, 13 messages
+2026-03-23 17:47:06,374 INFO Channel C08D9RKJAMB: thread 1771463513.865919 replies insert=12 update=1
+2026-03-23 17:47:06,485 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1771447347.241629, 4 messages
+2026-03-23 17:47:06,485 INFO Channel C08D9RKJAMB: thread 1771447347.241629 replies insert=3 update=1
+2026-03-23 17:47:06,590 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1770260661.686429, 2 messages
+2026-03-23 17:47:06,590 INFO Channel C08D9RKJAMB: thread 1770260661.686429 replies insert=1 update=1
+2026-03-23 17:47:06,699 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1770208391.479199, 4 messages
+2026-03-23 17:47:06,699 INFO Channel C08D9RKJAMB: thread 1770208391.479199 replies insert=3 update=1
+2026-03-23 17:47:06,805 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1770137556.755149, 5 messages
+2026-03-23 17:47:06,806 INFO Channel C08D9RKJAMB: thread 1770137556.755149 replies insert=4 update=1
+2026-03-23 17:47:06,916 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1769468751.427229, 8 messages
+2026-03-23 17:47:06,916 INFO Channel C08D9RKJAMB: thread 1769468751.427229 replies insert=7 update=1
+2026-03-23 17:47:07,027 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1769206377.409739, 2 messages
+2026-03-23 17:47:07,027 INFO Channel C08D9RKJAMB: thread 1769206377.409739 replies insert=1 update=1
+2026-03-23 17:47:07,132 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1769110784.385279, 2 messages
+2026-03-23 17:47:07,132 INFO Channel C08D9RKJAMB: thread 1769110784.385279 replies insert=1 update=1
+2026-03-23 17:47:07,232 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1768836517.219639, 6 messages
+2026-03-23 17:47:07,232 INFO Channel C08D9RKJAMB: thread 1768836517.219639 replies insert=5 update=1
+2026-03-23 17:47:07,337 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1767898216.903309, 5 messages
+2026-03-23 17:47:07,338 INFO Channel C08D9RKJAMB: thread 1767898216.903309 replies insert=4 update=1
+2026-03-23 17:47:07,466 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1767717110.605929, 2 messages
+2026-03-23 17:47:07,466 INFO Channel C08D9RKJAMB: thread 1767717110.605929 replies insert=1 update=1
+2026-03-23 17:47:07,588 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1766941049.745349, 2 messages
+2026-03-23 17:47:07,588 INFO Channel C08D9RKJAMB: thread 1766941049.745349 replies insert=1 update=1
+2026-03-23 17:47:07,687 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1766174131.898239, 3 messages
+2026-03-23 17:47:07,687 INFO Channel C08D9RKJAMB: thread 1766174131.898239 replies insert=2 update=1
+2026-03-23 17:47:07,784 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1766173203.055529, 3 messages
+2026-03-23 17:47:07,785 INFO Channel C08D9RKJAMB: thread 1766173203.055529 replies insert=2 update=1
+2026-03-23 17:47:07,901 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1766163607.741109, 2 messages
+2026-03-23 17:47:07,901 INFO Channel C08D9RKJAMB: thread 1766163607.741109 replies insert=0 update=2
+2026-03-23 17:47:08,008 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1766086499.607409, 2 messages
+2026-03-23 17:47:08,008 INFO Channel C08D9RKJAMB: thread 1766086499.607409 replies insert=1 update=1
+2026-03-23 17:47:08,111 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1766006545.057139, 3 messages
+2026-03-23 17:47:08,111 INFO Channel C08D9RKJAMB: thread 1766006545.057139 replies insert=2 update=1
+2026-03-23 17:47:08,228 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1765990463.758329, 2 messages
+2026-03-23 17:47:08,228 INFO Channel C08D9RKJAMB: thread 1765990463.758329 replies insert=1 update=1
+2026-03-23 17:47:08,342 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1765982394.539289, 4 messages
+2026-03-23 17:47:08,342 INFO Channel C08D9RKJAMB: thread 1765982394.539289 replies insert=3 update=1
+2026-03-23 17:47:08,443 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1765553528.757649, 2 messages
+2026-03-23 17:47:08,444 INFO Channel C08D9RKJAMB: thread 1765553528.757649 replies insert=1 update=1
+2026-03-23 17:47:08,558 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1765307810.010379, 4 messages
+2026-03-23 17:47:08,558 INFO Channel C08D9RKJAMB: thread 1765307810.010379 replies insert=3 update=1
+2026-03-23 17:47:08,678 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1765226931.792039, 3 messages
+2026-03-23 17:47:08,678 INFO Channel C08D9RKJAMB: thread 1765226931.792039 replies insert=2 update=1
+2026-03-23 17:47:08,803 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1765202388.981739, 2 messages
+2026-03-23 17:47:08,803 INFO Channel C08D9RKJAMB: thread 1765202388.981739 replies insert=1 update=1
+2026-03-23 17:47:08,910 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1764787856.803079, 6 messages
+2026-03-23 17:47:08,910 INFO Channel C08D9RKJAMB: thread 1764787856.803079 replies insert=5 update=1
+2026-03-23 17:47:09,009 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1764786932.413719, 2 messages
+2026-03-23 17:47:09,009 INFO Channel C08D9RKJAMB: thread 1764786932.413719 replies insert=1 update=1
+2026-03-23 17:47:09,144 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1764786019.974499, 8 messages
+2026-03-23 17:47:09,144 INFO Channel C08D9RKJAMB: thread 1764786019.974499 replies insert=7 update=1
+2026-03-23 17:47:09,285 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1764702194.703999, 5 messages
+2026-03-23 17:47:09,285 INFO Channel C08D9RKJAMB: thread 1764702194.703999 replies insert=4 update=1
+2026-03-23 17:47:09,402 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1764690690.734179, 5 messages
+2026-03-23 17:47:09,402 INFO Channel C08D9RKJAMB: thread 1764690690.734179 replies insert=4 update=1
+2026-03-23 17:47:09,528 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1764605171.140779, 11 messages
+2026-03-23 17:47:09,528 INFO Channel C08D9RKJAMB: thread 1764605171.140779 replies insert=10 update=1
+2026-03-23 17:47:09,628 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1764080629.248289, 2 messages
+2026-03-23 17:47:09,628 INFO Channel C08D9RKJAMB: thread 1764080629.248289 replies insert=1 update=1
+2026-03-23 17:47:09,747 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1764025328.184449, 6 messages
+2026-03-23 17:47:09,747 INFO Channel C08D9RKJAMB: thread 1764025328.184449 replies insert=5 update=1
+2026-03-23 17:47:09,868 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1763756222.203199, 8 messages
+2026-03-23 17:47:09,868 INFO Channel C08D9RKJAMB: thread 1763756222.203199 replies insert=6 update=2
+2026-03-23 17:47:09,979 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1763754096.060959, 5 messages
+2026-03-23 17:47:09,980 INFO Channel C08D9RKJAMB: thread 1763754096.060959 replies insert=4 update=1
+2026-03-23 17:47:10,102 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1763657692.880079, 5 messages
+2026-03-23 17:47:10,103 INFO Channel C08D9RKJAMB: thread 1763657692.880079 replies insert=3 update=2
+2026-03-23 17:47:10,224 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1763475206.896299, 5 messages
+2026-03-23 17:47:10,224 INFO Channel C08D9RKJAMB: thread 1763475206.896299 replies insert=3 update=2
+2026-03-23 17:47:10,326 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1763390599.511119, 2 messages
+2026-03-23 17:47:10,326 INFO Channel C08D9RKJAMB: thread 1763390599.511119 replies insert=1 update=1
+2026-03-23 17:47:10,425 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1762785604.672769, 2 messages
+2026-03-23 17:47:10,425 INFO Channel C08D9RKJAMB: thread 1762785604.672769 replies insert=1 update=1
+2026-03-23 17:47:10,534 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1762534944.307159, 2 messages
+2026-03-23 17:47:10,535 INFO Channel C08D9RKJAMB: thread 1762534944.307159 replies insert=1 update=1
+2026-03-23 17:47:10,647 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1762445737.591239, 4 messages
+2026-03-23 17:47:10,648 INFO Channel C08D9RKJAMB: thread 1762445737.591239 replies insert=3 update=1
+2026-03-23 17:47:10,751 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1762352402.440379, 4 messages
+2026-03-23 17:47:10,751 INFO Channel C08D9RKJAMB: thread 1762352402.440379 replies insert=3 update=1
+2026-03-23 17:47:10,862 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1762302123.461979, 3 messages
+2026-03-23 17:47:10,862 INFO Channel C08D9RKJAMB: thread 1762302123.461979 replies insert=2 update=1
+2026-03-23 17:47:10,967 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1762279234.366009, 7 messages
+2026-03-23 17:47:10,967 INFO Channel C08D9RKJAMB: thread 1762279234.366009 replies insert=6 update=1
+2026-03-23 17:47:11,071 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1762181061.022479, 2 messages
+2026-03-23 17:47:11,071 INFO Channel C08D9RKJAMB: thread 1762181061.022479 replies insert=1 update=1
+2026-03-23 17:47:11,179 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1761942742.432379, 3 messages
+2026-03-23 17:47:11,180 INFO Channel C08D9RKJAMB: thread 1761942742.432379 replies insert=2 update=1
+2026-03-23 17:47:11,292 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1761751822.054949, 2 messages
+2026-03-23 17:47:11,292 INFO Channel C08D9RKJAMB: thread 1761751822.054949 replies insert=1 update=1
+2026-03-23 17:47:11,404 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1761580834.084479, 10 messages
+2026-03-23 17:47:11,405 INFO Channel C08D9RKJAMB: thread 1761580834.084479 replies insert=9 update=1
+2026-03-23 17:47:11,516 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1761156046.066009, 2 messages
+2026-03-23 17:47:11,516 INFO Channel C08D9RKJAMB: thread 1761156046.066009 replies insert=1 update=1
+2026-03-23 17:47:11,620 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1761156017.656359, 2 messages
+2026-03-23 17:47:11,620 INFO Channel C08D9RKJAMB: thread 1761156017.656359 replies insert=1 update=1
+2026-03-23 17:47:11,731 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1761074449.215919, 3 messages
+2026-03-23 17:47:11,732 INFO Channel C08D9RKJAMB: thread 1761074449.215919 replies insert=2 update=1
+2026-03-23 17:47:11,849 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1761067123.364009, 2 messages
+2026-03-23 17:47:11,849 INFO Channel C08D9RKJAMB: thread 1761067123.364009 replies insert=1 update=1
+2026-03-23 17:47:11,950 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1761050409.991509, 2 messages
+2026-03-23 17:47:11,950 INFO Channel C08D9RKJAMB: thread 1761050409.991509 replies insert=1 update=1
+2026-03-23 17:47:12,071 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1759886720.983939, 2 messages
+2026-03-23 17:47:12,071 INFO Channel C08D9RKJAMB: thread 1759886720.983939 replies insert=1 update=1
+2026-03-23 17:47:12,192 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1759683772.857459, 2 messages
+2026-03-23 17:47:12,192 INFO Channel C08D9RKJAMB: thread 1759683772.857459 replies insert=1 update=1
+2026-03-23 17:47:12,296 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1759683706.040679, 2 messages
+2026-03-23 17:47:12,296 INFO Channel C08D9RKJAMB: thread 1759683706.040679 replies insert=1 update=1
+2026-03-23 17:47:12,402 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1758119709.800709, 2 messages
+2026-03-23 17:47:12,402 INFO Channel C08D9RKJAMB: thread 1758119709.800709 replies insert=1 update=1
+2026-03-23 17:47:12,521 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1757943401.491749, 2 messages
+2026-03-23 17:47:12,521 INFO Channel C08D9RKJAMB: thread 1757943401.491749 replies insert=1 update=1
+2026-03-23 17:47:12,627 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1757085783.151869, 3 messages
+2026-03-23 17:47:12,627 INFO Channel C08D9RKJAMB: thread 1757085783.151869 replies insert=2 update=1
+2026-03-23 17:47:12,724 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1757015601.096399, 2 messages
+2026-03-23 17:47:12,725 INFO Channel C08D9RKJAMB: thread 1757015601.096399 replies insert=1 update=1
+2026-03-23 17:47:12,832 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1757005915.119439, 2 messages
+2026-03-23 17:47:12,832 INFO Channel C08D9RKJAMB: thread 1757005915.119439 replies insert=1 update=1
+2026-03-23 17:47:12,953 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1756910993.152179, 8 messages
+2026-03-23 17:47:12,953 INFO Channel C08D9RKJAMB: thread 1756910993.152179 replies insert=7 update=1
+2026-03-23 17:47:13,083 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1756488501.903039, 2 messages
+2026-03-23 17:47:13,084 INFO Channel C08D9RKJAMB: thread 1756488501.903039 replies insert=1 update=1
+2026-03-23 17:47:13,210 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1756482987.308669, 8 messages
+2026-03-23 17:47:13,211 INFO Channel C08D9RKJAMB: thread 1756482987.308669 replies insert=7 update=1
+2026-03-23 17:47:13,333 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1756400043.730949, 9 messages
+2026-03-23 17:47:13,333 INFO Channel C08D9RKJAMB: thread 1756400043.730949 replies insert=8 update=1
+2026-03-23 17:47:13,435 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1756396094.028219, 7 messages
+2026-03-23 17:47:13,435 INFO Channel C08D9RKJAMB: thread 1756396094.028219 replies insert=6 update=1
+2026-03-23 17:47:13,557 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1756213564.539629, 7 messages
+2026-03-23 17:47:13,557 INFO Channel C08D9RKJAMB: thread 1756213564.539629 replies insert=6 update=1
+2026-03-23 17:47:13,668 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1755805581.317009, 7 messages
+2026-03-23 17:47:13,669 INFO Channel C08D9RKJAMB: thread 1755805581.317009 replies insert=6 update=1
+2026-03-23 17:47:13,788 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1755627845.188859, 3 messages
+2026-03-23 17:47:13,789 INFO Channel C08D9RKJAMB: thread 1755627845.188859 replies insert=2 update=1
+2026-03-23 17:47:13,932 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1755613482.700369, 13 messages
+2026-03-23 17:47:13,932 INFO Channel C08D9RKJAMB: thread 1755613482.700369 replies insert=12 update=1
+2026-03-23 17:47:14,038 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1755548037.247899, 3 messages
+2026-03-23 17:47:14,039 INFO Channel C08D9RKJAMB: thread 1755548037.247899 replies insert=2 update=1
+2026-03-23 17:47:14,160 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1755545039.748339, 3 messages
+2026-03-23 17:47:14,161 INFO Channel C08D9RKJAMB: thread 1755545039.748339 replies insert=2 update=1
+2026-03-23 17:47:14,263 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1755544967.057089, 6 messages
+2026-03-23 17:47:14,263 INFO Channel C08D9RKJAMB: thread 1755544967.057089 replies insert=5 update=1
+2026-03-23 17:47:14,369 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1755018327.653979, 3 messages
+2026-03-23 17:47:14,369 INFO Channel C08D9RKJAMB: thread 1755018327.653979 replies insert=2 update=1
+2026-03-23 17:47:14,518 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1754957535.890729, 2 messages
+2026-03-23 17:47:14,519 INFO Channel C08D9RKJAMB: thread 1754957535.890729 replies insert=1 update=1
+2026-03-23 17:47:14,631 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1754926926.254429, 2 messages
+2026-03-23 17:47:14,632 INFO Channel C08D9RKJAMB: thread 1754926926.254429 replies insert=1 update=1
+2026-03-23 17:47:14,753 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1754926043.341399, 2 messages
+2026-03-23 17:47:14,753 INFO Channel C08D9RKJAMB: thread 1754926043.341399 replies insert=1 update=1
+2026-03-23 17:47:14,873 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1754510238.636419, 3 messages
+2026-03-23 17:47:14,873 INFO Channel C08D9RKJAMB: thread 1754510238.636419 replies insert=2 update=1
+2026-03-23 17:47:14,999 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1754504978.510219, 7 messages
+2026-03-23 17:47:15,000 INFO Channel C08D9RKJAMB: thread 1754504978.510219 replies insert=6 update=1
+2026-03-23 17:47:15,102 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1754495750.844999, 3 messages
+2026-03-23 17:47:15,102 INFO Channel C08D9RKJAMB: thread 1754495750.844999 replies insert=2 update=1
+2026-03-23 17:47:15,207 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1754422254.513789, 7 messages
+2026-03-23 17:47:15,207 INFO Channel C08D9RKJAMB: thread 1754422254.513789 replies insert=6 update=1
+2026-03-23 17:47:15,311 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1754407670.314309, 2 messages
+2026-03-23 17:47:15,311 INFO Channel C08D9RKJAMB: thread 1754407670.314309 replies insert=1 update=1
+2026-03-23 17:47:15,440 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1754400570.399959, 7 messages
+2026-03-23 17:47:15,441 INFO Channel C08D9RKJAMB: thread 1754400570.399959 replies insert=6 update=1
+2026-03-23 17:47:15,557 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1754399134.188399, 4 messages
+2026-03-23 17:47:15,557 INFO Channel C08D9RKJAMB: thread 1754399134.188399 replies insert=3 update=1
+2026-03-23 17:47:15,682 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1754398151.484929, 3 messages
+2026-03-23 17:47:15,682 INFO Channel C08D9RKJAMB: thread 1754398151.484929 replies insert=2 update=1
+2026-03-23 17:47:15,815 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1754358626.929059, 5 messages
+2026-03-23 17:47:15,815 INFO Channel C08D9RKJAMB: thread 1754358626.929059 replies insert=4 update=1
+2026-03-23 17:47:15,942 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1754325196.017899, 19 messages
+2026-03-23 17:47:15,943 INFO Channel C08D9RKJAMB: thread 1754325196.017899 replies insert=18 update=1
+2026-03-23 17:47:16,217 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1754312229.824809, 2 messages
+2026-03-23 17:47:16,217 INFO Channel C08D9RKJAMB: thread 1754312229.824809 replies insert=1 update=1
+2026-03-23 17:47:16,321 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1754311257.703949, 4 messages
+2026-03-23 17:47:16,321 INFO Channel C08D9RKJAMB: thread 1754311257.703949 replies insert=3 update=1
+2026-03-23 17:47:16,443 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1754246981.944899, 2 messages
+2026-03-23 17:47:16,443 INFO Channel C08D9RKJAMB: thread 1754246981.944899 replies insert=1 update=1
+2026-03-23 17:47:16,576 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1754235077.666849, 3 messages
+2026-03-23 17:47:16,576 INFO Channel C08D9RKJAMB: thread 1754235077.666849 replies insert=2 update=1
+2026-03-23 17:47:16,680 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1754133961.374569, 2 messages
+2026-03-23 17:47:16,680 INFO Channel C08D9RKJAMB: thread 1754133961.374569 replies insert=1 update=1
+2026-03-23 17:47:16,797 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1754105977.229179, 3 messages
+2026-03-23 17:47:16,797 INFO Channel C08D9RKJAMB: thread 1754105977.229179 replies insert=2 update=1
+2026-03-23 17:47:16,905 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1754076819.965939, 2 messages
+2026-03-23 17:47:16,906 INFO Channel C08D9RKJAMB: thread 1754076819.965939 replies insert=1 update=1
+2026-03-23 17:47:17,020 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1754074449.075279, 3 messages
+2026-03-23 17:47:17,020 INFO Channel C08D9RKJAMB: thread 1754074449.075279 replies insert=2 update=1
+2026-03-23 17:47:17,129 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1754074352.878439, 2 messages
+2026-03-23 17:47:17,129 INFO Channel C08D9RKJAMB: thread 1754074352.878439 replies insert=1 update=1
+2026-03-23 17:47:17,233 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1754057044.234649, 6 messages
+2026-03-23 17:47:17,233 INFO Channel C08D9RKJAMB: thread 1754057044.234649 replies insert=5 update=1
+2026-03-23 17:47:17,339 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1753882473.371579, 2 messages
+2026-03-23 17:47:17,340 INFO Channel C08D9RKJAMB: thread 1753882473.371579 replies insert=1 update=1
+2026-03-23 17:47:17,446 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1753816568.961099, 9 messages
+2026-03-23 17:47:17,447 INFO Channel C08D9RKJAMB: thread 1753816568.961099 replies insert=8 update=1
+2026-03-23 17:47:17,549 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1753793758.850109, 6 messages
+2026-03-23 17:47:17,550 INFO Channel C08D9RKJAMB: thread 1753793758.850109 replies insert=5 update=1
+2026-03-23 17:47:17,849 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1753559482.075839, 6 messages
+2026-03-23 17:47:17,850 INFO Channel C08D9RKJAMB: thread 1753559482.075839 replies insert=5 update=1
+2026-03-23 17:47:17,948 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1753467929.334539, 3 messages
+2026-03-23 17:47:17,948 INFO Channel C08D9RKJAMB: thread 1753467929.334539 replies insert=2 update=1
+2026-03-23 17:47:18,053 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1753466010.244979, 3 messages
+2026-03-23 17:47:18,053 INFO Channel C08D9RKJAMB: thread 1753466010.244979 replies insert=2 update=1
+2026-03-23 17:47:18,165 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1753457331.758669, 3 messages
+2026-03-23 17:47:18,165 INFO Channel C08D9RKJAMB: thread 1753457331.758669 replies insert=2 update=1
+2026-03-23 17:47:18,276 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1753456881.678799, 2 messages
+2026-03-23 17:47:18,277 INFO Channel C08D9RKJAMB: thread 1753456881.678799 replies insert=1 update=1
+2026-03-23 17:47:18,408 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1753440508.319479, 6 messages
+2026-03-23 17:47:18,408 INFO Channel C08D9RKJAMB: thread 1753440508.319479 replies insert=5 update=1
+2026-03-23 17:47:18,509 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1753372636.108719, 2 messages
+2026-03-23 17:47:18,510 INFO Channel C08D9RKJAMB: thread 1753372636.108719 replies insert=1 update=1
+2026-03-23 17:47:18,613 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1753362606.593819, 2 messages
+2026-03-23 17:47:18,613 INFO Channel C08D9RKJAMB: thread 1753362606.593819 replies insert=1 update=1
+2026-03-23 17:47:18,715 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1753305095.501109, 3 messages
+2026-03-23 17:47:18,716 INFO Channel C08D9RKJAMB: thread 1753305095.501109 replies insert=2 update=1
+2026-03-23 17:47:18,822 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1753303090.521629, 14 messages
+2026-03-23 17:47:18,823 INFO Channel C08D9RKJAMB: thread 1753303090.521629 replies insert=13 update=1
+2026-03-23 17:47:18,933 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1753299150.071449, 2 messages
+2026-03-23 17:47:18,934 INFO Channel C08D9RKJAMB: thread 1753299150.071449 replies insert=1 update=1
+2026-03-23 17:47:19,041 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1753283998.258189, 8 messages
+2026-03-23 17:47:19,042 INFO Channel C08D9RKJAMB: thread 1753283998.258189 replies insert=7 update=1
+2026-03-23 17:47:19,155 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1753275949.549779, 6 messages
+2026-03-23 17:47:19,155 INFO Channel C08D9RKJAMB: thread 1753275949.549779 replies insert=5 update=1
+2026-03-23 17:47:19,259 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1753213943.683289, 3 messages
+2026-03-23 17:47:19,259 INFO Channel C08D9RKJAMB: thread 1753213943.683289 replies insert=2 update=1
+2026-03-23 17:47:19,382 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1753208242.962449, 3 messages
+2026-03-23 17:47:19,383 INFO Channel C08D9RKJAMB: thread 1753208242.962449 replies insert=2 update=1
+2026-03-23 17:47:19,506 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1753200680.227559, 3 messages
+2026-03-23 17:47:19,507 INFO Channel C08D9RKJAMB: thread 1753200680.227559 replies insert=2 update=1
+2026-03-23 17:47:19,612 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1753133445.070209, 3 messages
+2026-03-23 17:47:19,612 INFO Channel C08D9RKJAMB: thread 1753133445.070209 replies insert=2 update=1
+2026-03-23 17:47:19,719 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1753129971.127489, 4 messages
+2026-03-23 17:47:19,719 INFO Channel C08D9RKJAMB: thread 1753129971.127489 replies insert=3 update=1
+2026-03-23 17:47:19,830 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1753116954.173819, 7 messages
+2026-03-23 17:47:19,830 INFO Channel C08D9RKJAMB: thread 1753116954.173819 replies insert=6 update=1
+2026-03-23 17:47:19,933 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1753043126.732709, 2 messages
+2026-03-23 17:47:19,934 INFO Channel C08D9RKJAMB: thread 1753043126.732709 replies insert=1 update=1
+2026-03-23 17:47:20,047 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1752866238.439519, 4 messages
+2026-03-23 17:47:20,048 INFO Channel C08D9RKJAMB: thread 1752866238.439519 replies insert=3 update=1
+2026-03-23 17:47:20,158 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1752672330.689809, 2 messages
+2026-03-23 17:47:20,159 INFO Channel C08D9RKJAMB: thread 1752672330.689809 replies insert=1 update=1
+2026-03-23 17:47:20,261 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1752669569.611939, 7 messages
+2026-03-23 17:47:20,261 INFO Channel C08D9RKJAMB: thread 1752669569.611939 replies insert=6 update=1
+2026-03-23 17:47:20,372 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1752592589.454209, 3 messages
+2026-03-23 17:47:20,373 INFO Channel C08D9RKJAMB: thread 1752592589.454209 replies insert=2 update=1
+2026-03-23 17:47:20,492 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1752591761.760409, 4 messages
+2026-03-23 17:47:20,492 INFO Channel C08D9RKJAMB: thread 1752591761.760409 replies insert=2 update=2
+2026-03-23 17:47:20,615 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1752547341.680829, 10 messages
+2026-03-23 17:47:20,616 INFO Channel C08D9RKJAMB: thread 1752547341.680829 replies insert=9 update=1
+2026-03-23 17:47:20,738 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1752516379.151259, 8 messages
+2026-03-23 17:47:20,738 INFO Channel C08D9RKJAMB: thread 1752516379.151259 replies insert=7 update=1
+2026-03-23 17:47:20,846 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1752509783.736889, 2 messages
+2026-03-23 17:47:20,846 INFO Channel C08D9RKJAMB: thread 1752509783.736889 replies insert=1 update=1
+2026-03-23 17:47:20,952 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1752507230.323089, 2 messages
+2026-03-23 17:47:20,952 INFO Channel C08D9RKJAMB: thread 1752507230.323089 replies insert=1 update=1
+2026-03-23 17:47:21,049 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1752506992.012479, 4 messages
+2026-03-23 17:47:21,049 INFO Channel C08D9RKJAMB: thread 1752506992.012479 replies insert=3 update=1
+2026-03-23 17:47:21,150 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1752506859.740849, 3 messages
+2026-03-23 17:47:21,150 INFO Channel C08D9RKJAMB: thread 1752506859.740849 replies insert=2 update=1
+2026-03-23 17:47:21,262 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1752501616.857579, 3 messages
+2026-03-23 17:47:21,262 INFO Channel C08D9RKJAMB: thread 1752501616.857579 replies insert=2 update=1
+2026-03-23 17:47:21,382 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1752500151.853979, 2 messages
+2026-03-23 17:47:21,382 INFO Channel C08D9RKJAMB: thread 1752500151.853979 replies insert=1 update=1
+2026-03-23 17:47:21,510 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1752444733.910799, 14 messages
+2026-03-23 17:47:21,510 INFO Channel C08D9RKJAMB: thread 1752444733.910799 replies insert=13 update=1
+2026-03-23 17:47:21,633 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1752425212.625429, 2 messages
+2026-03-23 17:47:21,633 INFO Channel C08D9RKJAMB: thread 1752425212.625429 replies insert=1 update=1
+2026-03-23 17:47:21,746 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1752167116.247929, 3 messages
+2026-03-23 17:47:21,746 INFO Channel C08D9RKJAMB: thread 1752167116.247929 replies insert=2 update=1
+2026-03-23 17:47:21,852 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1752006752.549659, 17 messages
+2026-03-23 17:47:21,852 INFO Channel C08D9RKJAMB: thread 1752006752.549659 replies insert=16 update=1
+2026-03-23 17:47:21,965 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1751983173.453839, 2 messages
+2026-03-23 17:47:21,965 INFO Channel C08D9RKJAMB: thread 1751983173.453839 replies insert=1 update=1
+2026-03-23 17:47:22,074 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1751982822.420199, 2 messages
+2026-03-23 17:47:22,074 INFO Channel C08D9RKJAMB: thread 1751982822.420199 replies insert=1 update=1
+2026-03-23 17:47:22,182 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1751928199.083509, 2 messages
+2026-03-23 17:47:22,182 INFO Channel C08D9RKJAMB: thread 1751928199.083509 replies insert=1 update=1
+2026-03-23 17:47:22,303 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1751907615.632999, 4 messages
+2026-03-23 17:47:22,303 INFO Channel C08D9RKJAMB: thread 1751907615.632999 replies insert=3 update=1
+2026-03-23 17:47:22,422 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1751898472.275889, 4 messages
+2026-03-23 17:47:22,423 INFO Channel C08D9RKJAMB: thread 1751898472.275889 replies insert=3 update=1
+2026-03-23 17:47:22,529 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1751896162.626609, 3 messages
+2026-03-23 17:47:22,529 INFO Channel C08D9RKJAMB: thread 1751896162.626609 replies insert=2 update=1
+2026-03-23 17:47:22,630 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1751742336.867949, 2 messages
+2026-03-23 17:47:22,630 INFO Channel C08D9RKJAMB: thread 1751742336.867949 replies insert=1 update=1
+2026-03-23 17:47:22,736 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1751634906.804959, 7 messages
+2026-03-23 17:47:22,736 INFO Channel C08D9RKJAMB: thread 1751634906.804959 replies insert=6 update=1
+2026-03-23 17:47:22,838 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1751563926.805569, 17 messages
+2026-03-23 17:47:22,839 INFO Channel C08D9RKJAMB: thread 1751563926.805569 replies insert=16 update=1
+2026-03-23 17:47:22,941 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1751487059.691579, 5 messages
+2026-03-23 17:47:22,941 INFO Channel C08D9RKJAMB: thread 1751487059.691579 replies insert=4 update=1
+2026-03-23 17:47:23,055 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1751469056.690239, 2 messages
+2026-03-23 17:47:23,055 INFO Channel C08D9RKJAMB: thread 1751469056.690239 replies insert=1 update=1
+2026-03-23 17:47:23,166 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1751468756.228409, 2 messages
+2026-03-23 17:47:23,166 INFO Channel C08D9RKJAMB: thread 1751468756.228409 replies insert=1 update=1
+2026-03-23 17:47:23,287 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1751468443.870099, 6 messages
+2026-03-23 17:47:23,287 INFO Channel C08D9RKJAMB: thread 1751468443.870099 replies insert=4 update=2
+2026-03-23 17:47:23,426 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1751467842.114349, 6 messages
+2026-03-23 17:47:23,426 INFO Channel C08D9RKJAMB: thread 1751467842.114349 replies insert=5 update=1
+2026-03-23 17:47:23,539 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1751466647.456719, 3 messages
+2026-03-23 17:47:23,539 INFO Channel C08D9RKJAMB: thread 1751466647.456719 replies insert=2 update=1
+2026-03-23 17:47:23,665 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1751400735.749989, 5 messages
+2026-03-23 17:47:23,666 INFO Channel C08D9RKJAMB: thread 1751400735.749989 replies insert=4 update=1
+2026-03-23 17:47:23,816 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1751374058.552579, 7 messages
+2026-03-23 17:47:23,817 INFO Channel C08D9RKJAMB: thread 1751374058.552579 replies insert=5 update=2
+2026-03-23 17:47:23,936 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1751037096.604459, 4 messages
+2026-03-23 17:47:23,937 INFO Channel C08D9RKJAMB: thread 1751037096.604459 replies insert=2 update=2
+2026-03-23 17:47:24,044 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1751030884.141749, 4 messages
+2026-03-23 17:47:24,044 INFO Channel C08D9RKJAMB: thread 1751030884.141749 replies insert=3 update=1
+2026-03-23 17:47:24,145 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1750894429.574169, 4 messages
+2026-03-23 17:47:24,145 INFO Channel C08D9RKJAMB: thread 1750894429.574169 replies insert=3 update=1
+2026-03-23 17:47:24,247 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1750866345.766829, 10 messages
+2026-03-23 17:47:24,248 INFO Channel C08D9RKJAMB: thread 1750866345.766829 replies insert=9 update=1
+2026-03-23 17:47:24,366 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1750865705.420759, 3 messages
+2026-03-23 17:47:24,366 INFO Channel C08D9RKJAMB: thread 1750865705.420759 replies insert=2 update=1
+2026-03-23 17:47:24,482 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1750842058.108719, 2 messages
+2026-03-23 17:47:24,482 INFO Channel C08D9RKJAMB: thread 1750842058.108719 replies insert=1 update=1
+2026-03-23 17:47:24,605 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1750841945.550289, 4 messages
+2026-03-23 17:47:24,605 INFO Channel C08D9RKJAMB: thread 1750841945.550289 replies insert=3 update=1
+2026-03-23 17:47:24,708 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1750797797.354649, 4 messages
+2026-03-23 17:47:24,708 INFO Channel C08D9RKJAMB: thread 1750797797.354649 replies insert=3 update=1
+2026-03-23 17:47:24,807 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1750796149.788149, 3 messages
+2026-03-23 17:47:24,808 INFO Channel C08D9RKJAMB: thread 1750796149.788149 replies insert=2 update=1
+2026-03-23 17:47:24,910 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1750790324.445249, 2 messages
+2026-03-23 17:47:24,910 INFO Channel C08D9RKJAMB: thread 1750790324.445249 replies insert=1 update=1
+2026-03-23 17:47:25,029 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1750780740.633849, 2 messages
+2026-03-23 17:47:25,029 INFO Channel C08D9RKJAMB: thread 1750780740.633849 replies insert=0 update=2
+2026-03-23 17:47:25,249 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1750776540.118329, 28 messages
+2026-03-23 17:47:25,250 INFO Channel C08D9RKJAMB: thread 1750776540.118329 replies insert=25 update=3
+2026-03-23 17:47:25,360 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1750768692.640739, 2 messages
+2026-03-23 17:47:25,361 INFO Channel C08D9RKJAMB: thread 1750768692.640739 replies insert=1 update=1
+2026-03-23 17:47:25,460 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1750363444.734279, 4 messages
+2026-03-23 17:47:25,461 INFO Channel C08D9RKJAMB: thread 1750363444.734279 replies insert=3 update=1
+2026-03-23 17:47:25,569 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1750348714.565159, 2 messages
+2026-03-23 17:47:25,569 INFO Channel C08D9RKJAMB: thread 1750348714.565159 replies insert=1 update=1
+2026-03-23 17:47:25,671 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1750282538.329929, 4 messages
+2026-03-23 17:47:25,671 INFO Channel C08D9RKJAMB: thread 1750282538.329929 replies insert=3 update=1
+2026-03-23 17:47:25,792 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1750175464.239719, 3 messages
+2026-03-23 17:47:25,793 INFO Channel C08D9RKJAMB: thread 1750175464.239719 replies insert=2 update=1
+2026-03-23 17:47:25,921 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1750109324.607459, 10 messages
+2026-03-23 17:47:25,922 INFO Channel C08D9RKJAMB: thread 1750109324.607459 replies insert=9 update=1
+2026-03-23 17:47:26,044 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1750100080.174229, 9 messages
+2026-03-23 17:47:26,045 INFO Channel C08D9RKJAMB: thread 1750100080.174229 replies insert=8 update=1
+2026-03-23 17:47:26,143 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1749830525.010839, 2 messages
+2026-03-23 17:47:26,144 INFO Channel C08D9RKJAMB: thread 1749830525.010839 replies insert=1 update=1
+2026-03-23 17:47:26,257 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1749768151.542259, 2 messages
+2026-03-23 17:47:26,258 INFO Channel C08D9RKJAMB: thread 1749768151.542259 replies insert=1 update=1
+2026-03-23 17:47:26,370 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1749766425.073909, 2 messages
+2026-03-23 17:47:26,370 INFO Channel C08D9RKJAMB: thread 1749766425.073909 replies insert=1 update=1
+2026-03-23 17:47:26,479 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1749764445.617299, 7 messages
+2026-03-23 17:47:26,479 INFO Channel C08D9RKJAMB: thread 1749764445.617299 replies insert=6 update=1
+2026-03-23 17:47:26,582 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1749757423.379639, 4 messages
+2026-03-23 17:47:26,582 INFO Channel C08D9RKJAMB: thread 1749757423.379639 replies insert=3 update=1
+2026-03-23 17:47:26,690 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1749747930.044789, 4 messages
+2026-03-23 17:47:26,691 INFO Channel C08D9RKJAMB: thread 1749747930.044789 replies insert=3 update=1
+2026-03-23 17:47:26,795 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1749742775.030869, 2 messages
+2026-03-23 17:47:26,795 INFO Channel C08D9RKJAMB: thread 1749742775.030869 replies insert=1 update=1
+2026-03-23 17:47:26,904 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1749742505.257939, 2 messages
+2026-03-23 17:47:26,904 INFO Channel C08D9RKJAMB: thread 1749742505.257939 replies insert=1 update=1
+2026-03-23 17:47:27,007 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1749674520.129329, 2 messages
+2026-03-23 17:47:27,007 INFO Channel C08D9RKJAMB: thread 1749674520.129329 replies insert=1 update=1
+2026-03-23 17:47:27,133 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1749665511.488699, 3 messages
+2026-03-23 17:47:27,133 INFO Channel C08D9RKJAMB: thread 1749665511.488699 replies insert=2 update=1
+2026-03-23 17:47:27,237 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1749660358.875169, 3 messages
+2026-03-23 17:47:27,238 INFO Channel C08D9RKJAMB: thread 1749660358.875169 replies insert=2 update=1
+2026-03-23 17:47:27,354 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1749596236.478759, 2 messages
+2026-03-23 17:47:27,354 INFO Channel C08D9RKJAMB: thread 1749596236.478759 replies insert=1 update=1
+2026-03-23 17:47:27,466 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1749589997.553389, 4 messages
+2026-03-23 17:47:27,466 INFO Channel C08D9RKJAMB: thread 1749589997.553389 replies insert=3 update=1
+2026-03-23 17:47:27,545 WARNING Retry 1/5 for conversations.replies: HTTP 429; Retry-After=10, sleeping 10.00s
+2026-03-23 17:47:37,654 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1749579745.314909, 6 messages
+2026-03-23 17:47:37,655 INFO Channel C08D9RKJAMB: thread 1749579745.314909 replies insert=5 update=1
+2026-03-23 17:47:37,770 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1749499872.392529, 2 messages
+2026-03-23 17:47:37,770 INFO Channel C08D9RKJAMB: thread 1749499872.392529 replies insert=1 update=1
+2026-03-23 17:47:37,909 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1749495593.279429, 7 messages
+2026-03-23 17:47:37,909 INFO Channel C08D9RKJAMB: thread 1749495593.279429 replies insert=5 update=2
+2026-03-23 17:47:38,031 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1749475291.426649, 2 messages
+2026-03-23 17:47:38,031 INFO Channel C08D9RKJAMB: thread 1749475291.426649 replies insert=1 update=1
+2026-03-23 17:47:38,155 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1749474974.123299, 3 messages
+2026-03-23 17:47:38,155 INFO Channel C08D9RKJAMB: thread 1749474974.123299 replies insert=2 update=1
+2026-03-23 17:47:38,263 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1749142674.687299, 4 messages
+2026-03-23 17:47:38,263 INFO Channel C08D9RKJAMB: thread 1749142674.687299 replies insert=3 update=1
+2026-03-23 17:47:38,363 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1749141757.800169, 3 messages
+2026-03-23 17:47:38,363 INFO Channel C08D9RKJAMB: thread 1749141757.800169 replies insert=2 update=1
+2026-03-23 17:47:38,492 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1749070139.755919, 2 messages
+2026-03-23 17:47:38,492 INFO Channel C08D9RKJAMB: thread 1749070139.755919 replies insert=1 update=1
+2026-03-23 17:47:38,603 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1749062961.038219, 8 messages
+2026-03-23 17:47:38,607 INFO Channel C08D9RKJAMB: thread 1749062961.038219 replies insert=7 update=1
+2026-03-23 17:47:38,736 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1749057644.872079, 4 messages
+2026-03-23 17:47:38,736 INFO Channel C08D9RKJAMB: thread 1749057644.872079 replies insert=3 update=1
+2026-03-23 17:47:38,876 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1748975450.934509, 3 messages
+2026-03-23 17:47:38,876 INFO Channel C08D9RKJAMB: thread 1748975450.934509 replies insert=2 update=1
+2026-03-23 17:47:38,991 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1748971933.321329, 6 messages
+2026-03-23 17:47:38,992 INFO Channel C08D9RKJAMB: thread 1748971933.321329 replies insert=5 update=1
+2026-03-23 17:47:39,097 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1748971882.500609, 2 messages
+2026-03-23 17:47:39,097 INFO Channel C08D9RKJAMB: thread 1748971882.500609 replies insert=1 update=1
+2026-03-23 17:47:39,198 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1748913171.482929, 2 messages
+2026-03-23 17:47:39,199 INFO Channel C08D9RKJAMB: thread 1748913171.482929 replies insert=1 update=1
+2026-03-23 17:47:39,315 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1748873698.683159, 6 messages
+2026-03-23 17:47:39,316 INFO Channel C08D9RKJAMB: thread 1748873698.683159 replies insert=5 update=1
+2026-03-23 17:47:39,427 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1748625995.862849, 2 messages
+2026-03-23 17:47:39,427 INFO Channel C08D9RKJAMB: thread 1748625995.862849 replies insert=1 update=1
+2026-03-23 17:47:39,526 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1748614061.231349, 3 messages
+2026-03-23 17:47:39,526 INFO Channel C08D9RKJAMB: thread 1748614061.231349 replies insert=2 update=1
+2026-03-23 17:47:39,632 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1748551582.762289, 4 messages
+2026-03-23 17:47:39,633 INFO Channel C08D9RKJAMB: thread 1748551582.762289 replies insert=3 update=1
+2026-03-23 17:47:39,737 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1748524436.585259, 5 messages
+2026-03-23 17:47:39,737 INFO Channel C08D9RKJAMB: thread 1748524436.585259 replies insert=4 update=1
+2026-03-23 17:47:39,862 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1748523473.366979, 8 messages
+2026-03-23 17:47:39,863 INFO Channel C08D9RKJAMB: thread 1748523473.366979 replies insert=6 update=2
+2026-03-23 17:47:40,003 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1748464275.518539, 8 messages
+2026-03-23 17:47:40,003 INFO Channel C08D9RKJAMB: thread 1748464275.518539 replies insert=7 update=1
+2026-03-23 17:47:40,105 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1748463999.733169, 2 messages
+2026-03-23 17:47:40,105 INFO Channel C08D9RKJAMB: thread 1748463999.733169 replies insert=1 update=1
+2026-03-23 17:47:40,207 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1748454535.871279, 5 messages
+2026-03-23 17:47:40,208 INFO Channel C08D9RKJAMB: thread 1748454535.871279 replies insert=4 update=1
+2026-03-23 17:47:40,324 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1748447936.626999, 3 messages
+2026-03-23 17:47:40,325 INFO Channel C08D9RKJAMB: thread 1748447936.626999 replies insert=2 update=1
+2026-03-23 17:47:40,430 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1748447865.082619, 7 messages
+2026-03-23 17:47:40,430 INFO Channel C08D9RKJAMB: thread 1748447865.082619 replies insert=6 update=1
+2026-03-23 17:47:40,540 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1748438887.109859, 5 messages
+2026-03-23 17:47:40,541 INFO Channel C08D9RKJAMB: thread 1748438887.109859 replies insert=4 update=1
+2026-03-23 17:47:40,650 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1748429465.789309, 3 messages
+2026-03-23 17:47:40,651 INFO Channel C08D9RKJAMB: thread 1748429465.789309 replies insert=2 update=1
+2026-03-23 17:47:40,766 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1748362914.153579, 2 messages
+2026-03-23 17:47:40,766 INFO Channel C08D9RKJAMB: thread 1748362914.153579 replies insert=1 update=1
+2026-03-23 17:47:40,876 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1748353956.699929, 2 messages
+2026-03-23 17:47:40,876 INFO Channel C08D9RKJAMB: thread 1748353956.699929 replies insert=1 update=1
+2026-03-23 17:47:40,985 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1748262529.370419, 3 messages
+2026-03-23 17:47:40,985 INFO Channel C08D9RKJAMB: thread 1748262529.370419 replies insert=2 update=1
+2026-03-23 17:47:41,099 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1748114932.144609, 4 messages
+2026-03-23 17:47:41,100 INFO Channel C08D9RKJAMB: thread 1748114932.144609 replies insert=3 update=1
+2026-03-23 17:47:41,226 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1748105050.523039, 3 messages
+2026-03-23 17:47:41,226 INFO Channel C08D9RKJAMB: thread 1748105050.523039 replies insert=2 update=1
+2026-03-23 17:47:41,325 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1748101533.987109, 4 messages
+2026-03-23 17:47:41,325 INFO Channel C08D9RKJAMB: thread 1748101533.987109 replies insert=3 update=1
+2026-03-23 17:47:41,462 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1748098558.812319, 8 messages
+2026-03-23 17:47:41,462 INFO Channel C08D9RKJAMB: thread 1748098558.812319 replies insert=7 update=1
+2026-03-23 17:47:41,573 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1748098428.988269, 4 messages
+2026-03-23 17:47:41,573 INFO Channel C08D9RKJAMB: thread 1748098428.988269 replies insert=3 update=1
+2026-03-23 17:47:41,690 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1748096344.228059, 2 messages
+2026-03-23 17:47:41,690 INFO Channel C08D9RKJAMB: thread 1748096344.228059 replies insert=1 update=1
+2026-03-23 17:47:41,765 WARNING Retry 1/5 for conversations.replies: HTTP 429; Retry-After=10, sleeping 10.00s
+2026-03-23 17:47:51,865 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1748029921.837319, 3 messages
+2026-03-23 17:47:51,865 INFO Channel C08D9RKJAMB: thread 1748029921.837319 replies insert=2 update=1
+2026-03-23 17:47:51,982 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1748022355.907549, 2 messages
+2026-03-23 17:47:51,982 INFO Channel C08D9RKJAMB: thread 1748022355.907549 replies insert=1 update=1
+2026-03-23 17:47:52,085 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1748018808.052859, 3 messages
+2026-03-23 17:47:52,085 INFO Channel C08D9RKJAMB: thread 1748018808.052859 replies insert=2 update=1
+2026-03-23 17:47:52,188 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1748015590.699609, 4 messages
+2026-03-23 17:47:52,188 INFO Channel C08D9RKJAMB: thread 1748015590.699609 replies insert=3 update=1
+2026-03-23 17:47:52,299 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1748015376.426909, 2 messages
+2026-03-23 17:47:52,299 INFO Channel C08D9RKJAMB: thread 1748015376.426909 replies insert=1 update=1
+2026-03-23 17:47:52,518 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1747918845.398469, 12 messages
+2026-03-23 17:47:52,518 INFO Channel C08D9RKJAMB: thread 1747918845.398469 replies insert=10 update=2
+2026-03-23 17:47:52,621 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1747918097.954689, 8 messages
+2026-03-23 17:47:52,622 INFO Channel C08D9RKJAMB: thread 1747918097.954689 replies insert=7 update=1
+2026-03-23 17:47:52,692 WARNING Retry 1/5 for conversations.replies: HTTP 429; Retry-After=10, sleeping 10.00s
+2026-03-23 17:48:02,811 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1747765292.173279, 3 messages
+2026-03-23 17:48:02,811 INFO Channel C08D9RKJAMB: thread 1747765292.173279 replies insert=2 update=1
+2026-03-23 17:48:02,936 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1747753624.463259, 3 messages
+2026-03-23 17:48:02,936 INFO Channel C08D9RKJAMB: thread 1747753624.463259 replies insert=2 update=1
+2026-03-23 17:48:03,071 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1747686578.232279, 2 messages
+2026-03-23 17:48:03,071 INFO Channel C08D9RKJAMB: thread 1747686578.232279 replies insert=1 update=1
+2026-03-23 17:48:03,180 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1747664067.888059, 2 messages
+2026-03-23 17:48:03,180 INFO Channel C08D9RKJAMB: thread 1747664067.888059 replies insert=1 update=1
+2026-03-23 17:48:03,298 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1747660694.939429, 7 messages
+2026-03-23 17:48:03,298 INFO Channel C08D9RKJAMB: thread 1747660694.939429 replies insert=6 update=1
+2026-03-23 17:48:03,407 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1747424691.430949, 2 messages
+2026-03-23 17:48:03,407 INFO Channel C08D9RKJAMB: thread 1747424691.430949 replies insert=1 update=1
+2026-03-23 17:48:03,541 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1747420385.819859, 2 messages
+2026-03-23 17:48:03,541 INFO Channel C08D9RKJAMB: thread 1747420385.819859 replies insert=1 update=1
+2026-03-23 17:48:03,655 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1747407209.061779, 2 messages
+2026-03-23 17:48:03,656 INFO Channel C08D9RKJAMB: thread 1747407209.061779 replies insert=1 update=1
+2026-03-23 17:48:03,734 WARNING Retry 1/5 for conversations.replies: HTTP 429; Retry-After=10, sleeping 10.00s
+2026-03-23 17:48:13,828 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1747342230.041729, 3 messages
+2026-03-23 17:48:13,828 INFO Channel C08D9RKJAMB: thread 1747342230.041729 replies insert=2 update=1
+2026-03-23 17:48:13,966 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1747339747.591369, 7 messages
+2026-03-23 17:48:13,967 INFO Channel C08D9RKJAMB: thread 1747339747.591369 replies insert=6 update=1
+2026-03-23 17:48:14,074 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1747166312.512099, 2 messages
+2026-03-23 17:48:14,075 INFO Channel C08D9RKJAMB: thread 1747166312.512099 replies insert=1 update=1
+2026-03-23 17:48:14,201 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1747076144.823069, 7 messages
+2026-03-23 17:48:14,202 INFO Channel C08D9RKJAMB: thread 1747076144.823069 replies insert=6 update=1
+2026-03-23 17:48:14,305 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1747070681.944709, 2 messages
+2026-03-23 17:48:14,305 INFO Channel C08D9RKJAMB: thread 1747070681.944709 replies insert=1 update=1
+2026-03-23 17:48:14,411 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1747065278.023919, 3 messages
+2026-03-23 17:48:14,411 INFO Channel C08D9RKJAMB: thread 1747065278.023919 replies insert=2 update=1
+2026-03-23 17:48:14,512 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1746816545.457589, 5 messages
+2026-03-23 17:48:14,512 INFO Channel C08D9RKJAMB: thread 1746816545.457589 replies insert=4 update=1
+2026-03-23 17:48:14,618 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1746815190.641559, 3 messages
+2026-03-23 17:48:14,618 INFO Channel C08D9RKJAMB: thread 1746815190.641559 replies insert=2 update=1
+2026-03-23 17:48:14,720 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1746717644.970839, 2 messages
+2026-03-23 17:48:14,721 INFO Channel C08D9RKJAMB: thread 1746717644.970839 replies insert=1 update=1
+2026-03-23 17:48:14,845 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1746713976.968389, 2 messages
+2026-03-23 17:48:14,845 INFO Channel C08D9RKJAMB: thread 1746713976.968389 replies insert=1 update=1
+2026-03-23 17:48:14,948 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1746657373.806649, 2 messages
+2026-03-23 17:48:14,948 INFO Channel C08D9RKJAMB: thread 1746657373.806649 replies insert=1 update=1
+2026-03-23 17:48:15,050 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1746560264.389289, 4 messages
+2026-03-23 17:48:15,050 INFO Channel C08D9RKJAMB: thread 1746560264.389289 replies insert=3 update=1
+2026-03-23 17:48:15,151 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1746553785.018659, 2 messages
+2026-03-23 17:48:15,151 INFO Channel C08D9RKJAMB: thread 1746553785.018659 replies insert=1 update=1
+2026-03-23 17:48:15,260 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1746552793.238409, 2 messages
+2026-03-23 17:48:15,260 INFO Channel C08D9RKJAMB: thread 1746552793.238409 replies insert=1 update=1
+2026-03-23 17:48:15,366 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1746541713.545609, 15 messages
+2026-03-23 17:48:15,366 INFO Channel C08D9RKJAMB: thread 1746541713.545609 replies insert=14 update=1
+2026-03-23 17:48:15,492 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1746541247.756879, 2 messages
+2026-03-23 17:48:15,492 INFO Channel C08D9RKJAMB: thread 1746541247.756879 replies insert=1 update=1
+2026-03-23 17:48:15,620 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1746476046.898369, 4 messages
+2026-03-23 17:48:15,620 INFO Channel C08D9RKJAMB: thread 1746476046.898369 replies insert=3 update=1
+2026-03-23 17:48:15,729 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1746456979.485309, 3 messages
+2026-03-23 17:48:15,729 INFO Channel C08D9RKJAMB: thread 1746456979.485309 replies insert=2 update=1
+2026-03-23 17:48:15,854 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1746452310.380539, 4 messages
+2026-03-23 17:48:15,854 INFO Channel C08D9RKJAMB: thread 1746452310.380539 replies insert=3 update=1
+2026-03-23 17:48:15,957 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1746209759.460869, 24 messages
+2026-03-23 17:48:15,958 INFO Channel C08D9RKJAMB: thread 1746209759.460869 replies insert=23 update=1
+2026-03-23 17:48:16,069 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1746208404.441589, 2 messages
+2026-03-23 17:48:16,069 INFO Channel C08D9RKJAMB: thread 1746208404.441589 replies insert=1 update=1
+2026-03-23 17:48:16,181 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1746118048.209469, 2 messages
+2026-03-23 17:48:16,181 INFO Channel C08D9RKJAMB: thread 1746118048.209469 replies insert=1 update=1
+2026-03-23 17:48:16,292 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1746051084.299529, 20 messages
+2026-03-23 17:48:16,293 INFO Channel C08D9RKJAMB: thread 1746051084.299529 replies insert=19 update=1
+2026-03-23 17:48:16,404 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1746034355.138769, 8 messages
+2026-03-23 17:48:16,405 INFO Channel C08D9RKJAMB: thread 1746034355.138769 replies insert=7 update=1
+2026-03-23 17:48:16,521 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1745954887.123579, 3 messages
+2026-03-23 17:48:16,521 INFO Channel C08D9RKJAMB: thread 1745954887.123579 replies insert=2 update=1
+2026-03-23 17:48:16,643 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1745882745.388009, 11 messages
+2026-03-23 17:48:16,644 INFO Channel C08D9RKJAMB: thread 1745882745.388009 replies insert=10 update=1
+2026-03-23 17:48:16,722 WARNING Retry 1/5 for conversations.replies: HTTP 429; Retry-After=10, sleeping 10.00s
+2026-03-23 17:48:26,843 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1745869992.997839, 4 messages
+2026-03-23 17:48:26,843 INFO Channel C08D9RKJAMB: thread 1745869992.997839 replies insert=3 update=1
+2026-03-23 17:48:26,962 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1745513704.617979, 3 messages
+2026-03-23 17:48:26,962 INFO Channel C08D9RKJAMB: thread 1745513704.617979 replies insert=2 update=1
+2026-03-23 17:48:27,078 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1745508639.238329, 2 messages
+2026-03-23 17:48:27,078 INFO Channel C08D9RKJAMB: thread 1745508639.238329 replies insert=1 update=1
+2026-03-23 17:48:27,178 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1745508516.735499, 6 messages
+2026-03-23 17:48:27,178 INFO Channel C08D9RKJAMB: thread 1745508516.735499 replies insert=5 update=1
+2026-03-23 17:48:27,283 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1745444746.143789, 3 messages
+2026-03-23 17:48:27,283 INFO Channel C08D9RKJAMB: thread 1745444746.143789 replies insert=2 update=1
+2026-03-23 17:48:27,392 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1745276574.542559, 10 messages
+2026-03-23 17:48:27,392 INFO Channel C08D9RKJAMB: thread 1745276574.542559 replies insert=9 update=1
+2026-03-23 17:48:27,514 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1744912170.764289, 8 messages
+2026-03-23 17:48:27,514 INFO Channel C08D9RKJAMB: thread 1744912170.764289 replies insert=7 update=1
+2026-03-23 17:48:27,591 WARNING Retry 1/5 for conversations.replies: HTTP 429; Retry-After=10, sleeping 10.00s
+2026-03-23 17:48:37,697 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1744793195.882429, 2 messages
+2026-03-23 17:48:37,697 INFO Channel C08D9RKJAMB: thread 1744793195.882429 replies insert=1 update=1
+2026-03-23 17:48:37,799 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1744660104.320599, 2 messages
+2026-03-23 17:48:37,800 INFO Channel C08D9RKJAMB: thread 1744660104.320599 replies insert=1 update=1
+2026-03-23 17:48:37,914 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1744658929.355399, 3 messages
+2026-03-23 17:48:37,914 INFO Channel C08D9RKJAMB: thread 1744658929.355399 replies insert=2 update=1
+2026-03-23 17:48:38,030 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1744658659.648949, 6 messages
+2026-03-23 17:48:38,030 INFO Channel C08D9RKJAMB: thread 1744658659.648949 replies insert=5 update=1
+2026-03-23 17:48:38,125 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1744390443.556519, 3 messages
+2026-03-23 17:48:38,125 INFO Channel C08D9RKJAMB: thread 1744390443.556519 replies insert=2 update=1
+2026-03-23 17:48:38,196 WARNING Retry 1/5 for conversations.replies: HTTP 429; Retry-After=10, sleeping 10.00s
+2026-03-23 17:48:48,299 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1744288172.039599, 2 messages
+2026-03-23 17:48:48,299 INFO Channel C08D9RKJAMB: thread 1744288172.039599 replies insert=1 update=1
+2026-03-23 17:48:48,415 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1744233081.508829, 3 messages
+2026-03-23 17:48:48,415 INFO Channel C08D9RKJAMB: thread 1744233081.508829 replies insert=2 update=1
+2026-03-23 17:48:48,548 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1744204410.321849, 2 messages
+2026-03-23 17:48:48,549 INFO Channel C08D9RKJAMB: thread 1744204410.321849 replies insert=0 update=2
+2026-03-23 17:48:48,654 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1744031037.791949, 4 messages
+2026-03-23 17:48:48,654 INFO Channel C08D9RKJAMB: thread 1744031037.791949 replies insert=3 update=1
+2026-03-23 17:48:48,785 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1743608510.726829, 4 messages
+2026-03-23 17:48:48,785 INFO Channel C08D9RKJAMB: thread 1743608510.726829 replies insert=3 update=1
+2026-03-23 17:48:48,902 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1743516222.147629, 7 messages
+2026-03-23 17:48:48,903 INFO Channel C08D9RKJAMB: thread 1743516222.147629 replies insert=6 update=1
+2026-03-23 17:48:49,010 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1743445616.241929, 4 messages
+2026-03-23 17:48:49,010 INFO Channel C08D9RKJAMB: thread 1743445616.241929 replies insert=3 update=1
+2026-03-23 17:48:49,125 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1743190472.177959, 2 messages
+2026-03-23 17:48:49,125 INFO Channel C08D9RKJAMB: thread 1743190472.177959 replies insert=0 update=2
+2026-03-23 17:48:49,200 WARNING Retry 1/5 for conversations.replies: HTTP 429; Retry-After=10, sleeping 10.00s
+2026-03-23 17:48:59,322 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1743184261.417189, 14 messages
+2026-03-23 17:48:59,323 INFO Channel C08D9RKJAMB: thread 1743184261.417189 replies insert=13 update=1
+2026-03-23 17:48:59,429 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1743180618.084249, 2 messages
+2026-03-23 17:48:59,429 INFO Channel C08D9RKJAMB: thread 1743180618.084249 replies insert=1 update=1
+2026-03-23 17:48:59,538 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1743092956.660639, 3 messages
+2026-03-23 17:48:59,538 INFO Channel C08D9RKJAMB: thread 1743092956.660639 replies insert=2 update=1
+2026-03-23 17:48:59,647 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1742994690.650079, 2 messages
+2026-03-23 17:48:59,648 INFO Channel C08D9RKJAMB: thread 1742994690.650079 replies insert=1 update=1
+2026-03-23 17:48:59,749 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1742943199.994979, 2 messages
+2026-03-23 17:48:59,749 INFO Channel C08D9RKJAMB: thread 1742943199.994979 replies insert=1 update=1
+2026-03-23 17:48:59,864 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1742845223.383119, 7 messages
+2026-03-23 17:48:59,865 INFO Channel C08D9RKJAMB: thread 1742845223.383119 replies insert=6 update=1
+2026-03-23 17:49:00,339 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1742840152.226039, 4 messages
+2026-03-23 17:49:00,339 INFO Channel C08D9RKJAMB: thread 1742840152.226039 replies insert=3 update=1
+2026-03-23 17:49:00,444 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1742839058.142879, 9 messages
+2026-03-23 17:49:00,444 INFO Channel C08D9RKJAMB: thread 1742839058.142879 replies insert=8 update=1
+2026-03-23 17:49:00,638 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1742499524.065799, 6 messages
+2026-03-23 17:49:00,638 INFO Channel C08D9RKJAMB: thread 1742499524.065799 replies insert=4 update=2
+2026-03-23 17:49:00,750 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1742413818.784399, 3 messages
+2026-03-23 17:49:00,750 INFO Channel C08D9RKJAMB: thread 1742413818.784399 replies insert=2 update=1
+2026-03-23 17:49:00,865 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1742238824.299169, 10 messages
+2026-03-23 17:49:00,865 INFO Channel C08D9RKJAMB: thread 1742238824.299169 replies insert=9 update=1
+2026-03-23 17:49:00,943 WARNING Retry 1/5 for conversations.replies: HTTP 429; Retry-After=10, sleeping 10.00s
+2026-03-23 17:49:11,078 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1742237843.932079, 6 messages
+2026-03-23 17:49:11,078 INFO Channel C08D9RKJAMB: thread 1742237843.932079 replies insert=5 update=1
+2026-03-23 17:49:11,238 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1742147658.110369, 11 messages
+2026-03-23 17:49:11,239 INFO Channel C08D9RKJAMB: thread 1742147658.110369 replies insert=10 update=1
+2026-03-23 17:49:11,468 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1742086319.502549, 22 messages
+2026-03-23 17:49:11,469 INFO Channel C08D9RKJAMB: thread 1742086319.502549 replies insert=19 update=3
+2026-03-23 17:49:11,583 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1742086025.698979, 4 messages
+2026-03-23 17:49:11,583 INFO Channel C08D9RKJAMB: thread 1742086025.698979 replies insert=3 update=1
+2026-03-23 17:49:11,718 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1742076784.944729, 6 messages
+2026-03-23 17:49:11,718 INFO Channel C08D9RKJAMB: thread 1742076784.944729 replies insert=4 update=2
+2026-03-23 17:49:11,835 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1741994642.445699, 8 messages
+2026-03-23 17:49:11,836 INFO Channel C08D9RKJAMB: thread 1741994642.445699 replies insert=7 update=1
+2026-03-23 17:49:11,959 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1741897342.505009, 6 messages
+2026-03-23 17:49:11,959 INFO Channel C08D9RKJAMB: thread 1741897342.505009 replies insert=5 update=1
+2026-03-23 17:49:12,102 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1741895564.445869, 5 messages
+2026-03-23 17:49:12,103 INFO Channel C08D9RKJAMB: thread 1741895564.445869 replies insert=4 update=1
+2026-03-23 17:49:12,222 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1741885906.394719, 4 messages
+2026-03-23 17:49:12,223 INFO Channel C08D9RKJAMB: thread 1741885906.394719 replies insert=3 update=1
+2026-03-23 17:49:12,358 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1741825383.128289, 5 messages
+2026-03-23 17:49:12,358 INFO Channel C08D9RKJAMB: thread 1741825383.128289 replies insert=4 update=1
+2026-03-23 17:49:12,492 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1741820336.053749, 5 messages
+2026-03-23 17:49:12,492 INFO Channel C08D9RKJAMB: thread 1741820336.053749 replies insert=4 update=1
+2026-03-23 17:49:12,601 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1741798920.916929, 4 messages
+2026-03-23 17:49:12,602 INFO Channel C08D9RKJAMB: thread 1741798920.916929 replies insert=3 update=1
+2026-03-23 17:49:12,702 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1741796308.683839, 2 messages
+2026-03-23 17:49:12,702 INFO Channel C08D9RKJAMB: thread 1741796308.683839 replies insert=1 update=1
+2026-03-23 17:49:12,823 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1741794297.061389, 17 messages
+2026-03-23 17:49:12,823 INFO Channel C08D9RKJAMB: thread 1741794297.061389 replies insert=16 update=1
+2026-03-23 17:49:12,927 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1741713020.097159, 2 messages
+2026-03-23 17:49:12,928 INFO Channel C08D9RKJAMB: thread 1741713020.097159 replies insert=1 update=1
+2026-03-23 17:49:13,034 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1741627632.420109, 4 messages
+2026-03-23 17:49:13,034 INFO Channel C08D9RKJAMB: thread 1741627632.420109 replies insert=3 update=1
+2026-03-23 17:49:13,143 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1741370301.698679, 2 messages
+2026-03-23 17:49:13,143 INFO Channel C08D9RKJAMB: thread 1741370301.698679 replies insert=1 update=1
+2026-03-23 17:49:13,298 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1741275296.818849, 4 messages
+2026-03-23 17:49:13,299 INFO Channel C08D9RKJAMB: thread 1741275296.818849 replies insert=3 update=1
+2026-03-23 17:49:13,438 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1741274444.671269, 8 messages
+2026-03-23 17:49:13,438 INFO Channel C08D9RKJAMB: thread 1741274444.671269 replies insert=7 update=1
+2026-03-23 17:49:13,551 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1741271779.457089, 5 messages
+2026-03-23 17:49:13,551 INFO Channel C08D9RKJAMB: thread 1741271779.457089 replies insert=4 update=1
+2026-03-23 17:49:13,669 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1741210373.299989, 3 messages
+2026-03-23 17:49:13,669 INFO Channel C08D9RKJAMB: thread 1741210373.299989 replies insert=2 update=1
+2026-03-23 17:49:13,778 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1741210124.648939, 4 messages
+2026-03-23 17:49:13,778 INFO Channel C08D9RKJAMB: thread 1741210124.648939 replies insert=3 update=1
+2026-03-23 17:49:13,882 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1741206901.459849, 5 messages
+2026-03-23 17:49:13,882 INFO Channel C08D9RKJAMB: thread 1741206901.459849 replies insert=4 update=1
+2026-03-23 17:49:13,988 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1741201462.567129, 3 messages
+2026-03-23 17:49:13,988 INFO Channel C08D9RKJAMB: thread 1741201462.567129 replies insert=2 update=1
+2026-03-23 17:49:14,088 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1741193793.401009, 2 messages
+2026-03-23 17:49:14,089 INFO Channel C08D9RKJAMB: thread 1741193793.401009 replies insert=1 update=1
+2026-03-23 17:49:14,205 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1741191850.642139, 4 messages
+2026-03-23 17:49:14,205 INFO Channel C08D9RKJAMB: thread 1741191850.642139 replies insert=3 update=1
+2026-03-23 17:49:14,319 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1741188991.904199, 5 messages
+2026-03-23 17:49:14,319 INFO Channel C08D9RKJAMB: thread 1741188991.904199 replies insert=4 update=1
+2026-03-23 17:49:14,440 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1741188971.377399, 2 messages
+2026-03-23 17:49:14,440 INFO Channel C08D9RKJAMB: thread 1741188971.377399 replies insert=1 update=1
+2026-03-23 17:49:14,627 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1741188285.977999, 26 messages
+2026-03-23 17:49:14,628 INFO Channel C08D9RKJAMB: thread 1741188285.977999 replies insert=25 update=1
+2026-03-23 17:49:14,732 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1741126508.224539, 5 messages
+2026-03-23 17:49:14,732 INFO Channel C08D9RKJAMB: thread 1741126508.224539 replies insert=4 update=1
+2026-03-23 17:49:14,837 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1741120559.298469, 2 messages
+2026-03-23 17:49:14,838 INFO Channel C08D9RKJAMB: thread 1741120559.298469 replies insert=1 update=1
+2026-03-23 17:49:14,956 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1741117252.622719, 5 messages
+2026-03-23 17:49:14,956 INFO Channel C08D9RKJAMB: thread 1741117252.622719 replies insert=4 update=1
+2026-03-23 17:49:15,059 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1741033237.432059, 2 messages
+2026-03-23 17:49:15,059 INFO Channel C08D9RKJAMB: thread 1741033237.432059 replies insert=1 update=1
+2026-03-23 17:49:15,161 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1741030136.397829, 3 messages
+2026-03-23 17:49:15,162 INFO Channel C08D9RKJAMB: thread 1741030136.397829 replies insert=2 update=1
+2026-03-23 17:49:15,279 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1741029208.656969, 3 messages
+2026-03-23 17:49:15,279 INFO Channel C08D9RKJAMB: thread 1741029208.656969 replies insert=2 update=1
+2026-03-23 17:49:15,383 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1740776081.212349, 2 messages
+2026-03-23 17:49:15,389 INFO Channel C08D9RKJAMB: thread 1740776081.212349 replies insert=1 update=1
+2026-03-23 17:49:15,506 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1740775888.483279, 22 messages
+2026-03-23 17:49:15,506 INFO Channel C08D9RKJAMB: thread 1740775888.483279 replies insert=21 update=1
+2026-03-23 17:49:15,625 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1740770901.787859, 2 messages
+2026-03-23 17:49:15,626 INFO Channel C08D9RKJAMB: thread 1740770901.787859 replies insert=1 update=1
+2026-03-23 17:49:15,743 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1740761670.638319, 11 messages
+2026-03-23 17:49:15,743 INFO Channel C08D9RKJAMB: thread 1740761670.638319 replies insert=10 update=1
+2026-03-23 17:49:15,856 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1740664488.608329, 5 messages
+2026-03-23 17:49:15,856 INFO Channel C08D9RKJAMB: thread 1740664488.608329 replies insert=4 update=1
+2026-03-23 17:49:15,929 WARNING Retry 1/5 for conversations.replies: HTTP 429; Retry-After=10, sleeping 10.00s
+2026-03-23 17:49:26,088 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1740663258.701299, 7 messages
+2026-03-23 17:49:26,089 INFO Channel C08D9RKJAMB: thread 1740663258.701299 replies insert=5 update=2
+2026-03-23 17:49:26,207 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1740613669.435269, 2 messages
+2026-03-23 17:49:26,208 INFO Channel C08D9RKJAMB: thread 1740613669.435269 replies insert=1 update=1
+2026-03-23 17:49:26,306 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1740516463.120909, 4 messages
+2026-03-23 17:49:26,306 INFO Channel C08D9RKJAMB: thread 1740516463.120909 replies insert=3 update=1
+2026-03-23 17:49:26,411 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1740500775.845499, 19 messages
+2026-03-23 17:49:26,411 INFO Channel C08D9RKJAMB: thread 1740500775.845499 replies insert=18 update=1
+2026-03-23 17:49:26,512 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1740494301.431089, 2 messages
+2026-03-23 17:49:26,512 INFO Channel C08D9RKJAMB: thread 1740494301.431089 replies insert=1 update=1
+2026-03-23 17:49:26,615 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1740494138.631759, 2 messages
+2026-03-23 17:49:26,616 INFO Channel C08D9RKJAMB: thread 1740494138.631759 replies insert=1 update=1
+2026-03-23 17:49:26,731 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1740170322.942349, 5 messages
+2026-03-23 17:49:26,731 INFO Channel C08D9RKJAMB: thread 1740170322.942349 replies insert=4 update=1
+2026-03-23 17:49:26,850 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1740169124.785799, 3 messages
+2026-03-23 17:49:26,850 INFO Channel C08D9RKJAMB: thread 1740169124.785799 replies insert=2 update=1
+2026-03-23 17:49:26,965 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1740166762.768869, 5 messages
+2026-03-23 17:49:26,965 INFO Channel C08D9RKJAMB: thread 1740166762.768869 replies insert=4 update=1
+2026-03-23 17:49:27,072 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1740163943.458339, 6 messages
+2026-03-23 17:49:27,072 INFO Channel C08D9RKJAMB: thread 1740163943.458339 replies insert=5 update=1
+2026-03-23 17:49:27,197 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1740085874.980699, 13 messages
+2026-03-23 17:49:27,197 INFO Channel C08D9RKJAMB: thread 1740085874.980699 replies insert=12 update=1
+2026-03-23 17:49:27,304 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1740084784.883459, 5 messages
+2026-03-23 17:49:27,304 INFO Channel C08D9RKJAMB: thread 1740084784.883459 replies insert=4 update=1
+2026-03-23 17:49:27,406 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1740084774.609839, 10 messages
+2026-03-23 17:49:27,407 INFO Channel C08D9RKJAMB: thread 1740084774.609839 replies insert=9 update=1
+2026-03-23 17:49:27,532 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1740080531.372839, 7 messages
+2026-03-23 17:49:27,533 INFO Channel C08D9RKJAMB: thread 1740080531.372839 replies insert=6 update=1
+2026-03-23 17:49:27,641 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1740078769.781079, 4 messages
+2026-03-23 17:49:27,641 INFO Channel C08D9RKJAMB: thread 1740078769.781079 replies insert=3 update=1
+2026-03-23 17:49:27,760 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1740076814.444139, 4 messages
+2026-03-23 17:49:27,760 INFO Channel C08D9RKJAMB: thread 1740076814.444139 replies insert=3 update=1
+2026-03-23 17:49:27,871 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1740064668.594439, 14 messages
+2026-03-23 17:49:27,872 INFO Channel C08D9RKJAMB: thread 1740064668.594439 replies insert=13 update=1
+2026-03-23 17:49:27,946 WARNING Retry 1/5 for conversations.replies: HTTP 429; Retry-After=10, sleeping 10.00s
+2026-03-23 17:49:38,042 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1739999390.147489, 11 messages
+2026-03-23 17:49:38,042 INFO Channel C08D9RKJAMB: thread 1739999390.147489 replies insert=10 update=1
+2026-03-23 17:49:38,151 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1739995093.176719, 6 messages
+2026-03-23 17:49:38,151 INFO Channel C08D9RKJAMB: thread 1739995093.176719 replies insert=5 update=1
+2026-03-23 17:49:38,232 WARNING Retry 1/5 for conversations.replies: HTTP 429; Retry-After=10, sleeping 10.00s
+2026-03-23 17:49:48,330 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1739992695.812199, 11 messages
+2026-03-23 17:49:48,330 INFO Channel C08D9RKJAMB: thread 1739992695.812199 replies insert=10 update=1
+2026-03-23 17:49:48,445 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1739984241.869399, 8 messages
+2026-03-23 17:49:48,445 INFO Channel C08D9RKJAMB: thread 1739984241.869399 replies insert=7 update=1
+2026-03-23 17:49:48,521 WARNING Retry 1/5 for conversations.replies: HTTP 429; Retry-After=10, sleeping 10.00s
+2026-03-23 17:49:58,741 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1739983762.691899, 22 messages
+2026-03-23 17:49:58,741 INFO Channel C08D9RKJAMB: thread 1739983762.691899 replies insert=19 update=3
+2026-03-23 17:49:58,848 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1739983687.263149, 7 messages
+2026-03-23 17:49:58,848 INFO Channel C08D9RKJAMB: thread 1739983687.263149 replies insert=6 update=1
+2026-03-23 17:49:58,969 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1739914630.604019, 15 messages
+2026-03-23 17:49:58,970 INFO Channel C08D9RKJAMB: thread 1739914630.604019 replies insert=14 update=1
+2026-03-23 17:49:59,077 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1739913994.806519, 6 messages
+2026-03-23 17:49:59,078 INFO Channel C08D9RKJAMB: thread 1739913994.806519 replies insert=5 update=1
+2026-03-23 17:49:59,178 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1739900996.152789, 3 messages
+2026-03-23 17:49:59,178 INFO Channel C08D9RKJAMB: thread 1739900996.152789 replies insert=2 update=1
+2026-03-23 17:49:59,324 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1739898107.488059, 6 messages
+2026-03-23 17:49:59,325 INFO Channel C08D9RKJAMB: thread 1739898107.488059 replies insert=5 update=1
+2026-03-23 17:49:59,445 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1739887947.272439, 3 messages
+2026-03-23 17:49:59,445 INFO Channel C08D9RKJAMB: thread 1739887947.272439 replies insert=2 update=1
+2026-03-23 17:49:59,554 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1739877202.689579, 2 messages
+2026-03-23 17:49:59,554 INFO Channel C08D9RKJAMB: thread 1739877202.689579 replies insert=1 update=1
+2026-03-23 17:49:59,656 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1739877201.596509, 2 messages
+2026-03-23 17:49:59,656 INFO Channel C08D9RKJAMB: thread 1739877201.596509 replies insert=1 update=1
+2026-03-23 17:49:59,796 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1739837105.986149, 2 messages
+2026-03-23 17:49:59,796 INFO Channel C08D9RKJAMB: thread 1739837105.986149 replies insert=1 update=1
+2026-03-23 17:49:59,905 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1739817176.276999, 3 messages
+2026-03-23 17:49:59,905 INFO Channel C08D9RKJAMB: thread 1739817176.276999 replies insert=2 update=1
+2026-03-23 17:50:00,033 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1739812540.398769, 2 messages
+2026-03-23 17:50:00,033 INFO Channel C08D9RKJAMB: thread 1739812540.398769 replies insert=1 update=1
+2026-03-23 17:50:00,137 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1739648823.309809, 2 messages
+2026-03-23 17:50:00,138 INFO Channel C08D9RKJAMB: thread 1739648823.309809 replies insert=1 update=1
+2026-03-23 17:50:00,271 INFO Channel C08D9RKJAMB: replies page 1 for thread_ts=1739644616.645939, 12 messages
+2026-03-23 17:50:00,271 INFO Channel C08D9RKJAMB: thread 1739644616.645939 replies insert=11 update=1
+2026-03-23 17:50:00,284 INFO Channel C08D9RKJAMB: message upserts insert=3048 update=426
+2026-03-23 17:50:00,290 INFO Channel C08D9RKJAMB: channel_state.latest_ts set to 1774304506.933239
+2026-03-23 17:50:00,292 INFO Finished channel C08D9RKJAMB successfully
+2026-03-23 17:50:00,293 INFO Done. Channels OK=2 failed=0 (see log file under C:\Users\cdtin\venv\cursor_project\gli_slack_agent\logs)
